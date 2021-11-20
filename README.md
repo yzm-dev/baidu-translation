@@ -2,7 +2,7 @@
 Python 实现 JS 逆向实现百度翻译
 
 ## 使用相关模块
-requests、
+==requests==
 re、
 execjs、
 json
